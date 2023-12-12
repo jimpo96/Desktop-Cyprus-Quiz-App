@@ -50,6 +50,11 @@ Incorrect answer: 0 points
 
 At the end of the quiz, your total score will be displayed. 
 
+## License
+
+This project is licensed under the MIT License (LICENSE)
+
+
 
 
 
