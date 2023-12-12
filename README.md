@@ -36,11 +36,11 @@ You progress through the quiz by answering each question sequentially, and after
 
 Contributor name : Dimitrios Kaoutzanis 
 
-![WelcomePage](https://github.com/jimpo96/Desktop-Cyprus-Quiz-App/assets/118792027/c3f4d14e-9296-4d5d-a825-ebe2c6ec6b10)
+![WelcomePage](https://github.com/jimpo96/Desktop-Cyprus-Quiz-App/assets/118792027/dd830826-0598-4d62-b012-db6fabd33a7e)
 
-![QuestionPage](https://github.com/jimpo96/Desktop-Cyprus-Quiz-App/assets/118792027/71ab96ec-9daa-4ffe-b399-58a1ce4f8f37)
+![QuestionPage](https://github.com/jimpo96/Desktop-Cyprus-Quiz-App/assets/118792027/72dea06d-35ae-4071-a260-1fca691c09f4)
 
-![ScorePage](https://github.com/jimpo96/Desktop-Cyprus-Quiz-App/assets/118792027/f90c8cca-d7be-4a47-91c7-9883e42c97aa)
+![ScorePage](https://github.com/jimpo96/Desktop-Cyprus-Quiz-App/assets/118792027/2a893374-c4b3-46a5-b3e2-a01bc7f4a3c6)
 
 ### Scoring
 
