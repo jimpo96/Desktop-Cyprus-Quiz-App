@@ -67,7 +67,7 @@ public class QuizServer extends JFrame implements Runnable {
 		questions.add(new QuizQuestion("Which entrance of museum is shown in the picture?", "q9.jpeg", "Leventis Municipal Museum of Nicosia", "Museum of the National Struggle", "Cyprus Museum", "Cyprus Classic Motorcycle Museum", "C"));
 		questions.add(new QuizQuestion("Which Castle is shown in the picture?", "q10.jpeg", "Limassol Castle", "Kantara Castle", "Kolossi Castle", "Paphos Castle", "D"));
 		questions.add(new QuizQuestion("Can you guess how 'Cyprus' is written in the Greek language?", "q11.jpeg", "Κύπρος", "Λάος", "Σεϋχέλλες", "Μαυρίκιος", "A"));
-		questions.add(new QuizQuestion("What is the name of the cheese in the image??", "q12.jpeg", "Feta", "Blue Cheese", "Asiago", "Halloumi", "D"));
+		questions.add(new QuizQuestion("What is the name of the cheese in the image?", "q12.jpeg", "Feta", "Blue Cheese", "Asiago", "Halloumi", "D"));
 		questions.add(new QuizQuestion("Can you guess how 'Hi' is written in the Greek language?", "q13.jpeg", "Τυρί", "Πάω", "Γειά σου", "Αυγό", "C"));
 		questions.add(new QuizQuestion("Can you guess how 'Yes' is written in the Greek language?", "q14.jpeg", "Οχι(όχι)", "Ναί", "Γάτα", "Νερό", "B"));
 		questions.add(new QuizQuestion("Can you guess how 'No' is written in the Greek language?", "q15.jpeg", "Οχι(όχι)", "Ναί", "Σκύλος", "Σχολείο", "A"));
